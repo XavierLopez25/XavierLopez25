@@ -36,7 +36,7 @@ While my passion lies primarily in backend development, my dedication to continu
 
 [<img align="left" alt="JetBrains" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" style="padding-right:10px;" />]()
 
-[<img align="left" alt="Kotlin" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" style="padding-right:10px;" />]()
+[<img align="left" alt="Kotlin" width="35px" src="./img/instagram-light.svg" style="padding-right:10px;" />]()
 
 
 <br />
@@ -52,6 +52,3 @@ While my passion lies primarily in backend development, my dedication to continu
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/nathan_nugget/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/nathan_nugget/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/Kotlin_Icon.svg)](https://www.instagram.com/nathan_nugget/#gh-light-mode-only)
-[![website](./img/Kotlin_Icon.svg)](https://www.instagram.com/nathan_nugget/#gh-dark-mode-only)
