@@ -52,3 +52,6 @@ While my passion lies primarily in backend development, my dedication to continu
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/nathan_nugget/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/nathan_nugget/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/Kotlin_Icon.svg)](https://www.instagram.com/nathan_nugget/#gh-light-mode-only)
+[![website](./img/Kotlin_Icon.svg)](https://www.instagram.com/nathan_nugget/#gh-dark-mode-only)
