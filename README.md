@@ -36,7 +36,7 @@ While my passion lies primarily in backend development, my dedication to continu
 
 [<img align="left" alt="JetBrains" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" style="padding-right:10px;" />]()
 
-[<img align="left" alt="Kotlin" width="35px" src="./img/instagram-light.svg" style="padding-right:10px;" />]()
+[<img align="left" alt="Kotlin" width="35px" src="./img/Kotlin_Icon.svg" style="padding-right:10px;" />]()
 
 
 <br />
