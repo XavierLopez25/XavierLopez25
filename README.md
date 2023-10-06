@@ -57,8 +57,8 @@ While my passion lies primarily in backend development, my dedication to continu
 [![website](./img/twitter-light.svg)](https://twitter.com/XLopezN8#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/XLopezN8#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/aroldo-xavier-l%C3%B3pez-osoy-8a2863283//#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mark-alexander-albrand-mendoza/#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/aroldo-xavier-l%C3%B3pez-osoy-8a2863283/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/aroldo-xavier-l%C3%B3pez-osoy-8a2863283/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/nathan_nugget/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/nathan_nugget/#gh-dark-mode-only)
