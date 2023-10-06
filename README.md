@@ -36,7 +36,17 @@ While my passion lies primarily in backend development, my dedication to continu
 
 [<img align="left" alt="JetBrains" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" style="padding-right:10px;" />]()
 
-[<img align="left" alt="Kotlin" width="35px" src="./img/Kotlin_Icon.svg" style="padding-right:10px;" />]()
+[<img align="left" alt="Kotlin" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="padding-right:10px;" />]()
+
+[<img align="left" alt="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="padding-right:10px;" />]()
+
+[<img align="left" alt="C#" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" style="padding-right:10px;" />]()
+
+[<img align="left" alt="C++" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" style="padding-right:10px;" />]()
+
+[<img align="left" alt="C" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" style="padding-right:10px;" />]()
+
+[<img align="left" alt="Android Studio" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" style="padding-right:10px;" />]()
 
 
 <br />
