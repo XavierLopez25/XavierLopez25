@@ -8,6 +8,7 @@
 [![Follow on ](https://img.shields.io/badge/Follow%20on%20Instagram-%40nathan_nugget-orange)](https://www.instagram.com/nathan_nugget/)
 
 ![XavierLopez25's Stats](https://github-readme-stats.vercel.app/api?username=XavierLopez25&theme=react&show_icons=true&hide_border=true&count_private=true)
+![XavierLopez25's Most used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=XavierLopez25&&theme=react&show_icons=true&locale=en&layout=compact)
 
 While my passion lies primarily in backend development, my dedication to continuous learning extends beyond that specialization. I wholeheartedly embrace the mindset of a proficient full-stack developer, constantly seeking to broaden my knowledge and skills across the entire technology stack. This approach allows me to appreciate the interconnectedness of different components, including backend systems, frontend interfaces, AI technologies, and database administration, in achieving comprehensive and secure solutions.
 
