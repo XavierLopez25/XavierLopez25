@@ -122,8 +122,8 @@ While my passion encompasses the entire spectrum of development, I wholeheartedl
         <img src="img/gif2.gif" alt="Warframe" style="height:350px; width:auto"/>
     </div>
     <div style="display:flex; flex-direction:row">
-        <img src="img/asa.jpg" alt="Warframe" style="width:500px;height:auto;clip-path: inset(0 0 20% 0)"/>
-        <img src="img/asa2.jpg" alt="Warframe" style="height:283px; width:auto"/>
+        <img src="img/asa.jpg" alt="Warframe" style="width:487px;height:355px"/>
+        <img src="img/yoru.jpg" alt="Warframe" style="height:355px;width:autopx;object-fit:contain"/>
     </div>
 
 </div>
